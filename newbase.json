@@ -1,2 +1,7 @@
-//isi session kalian bre
-//kalau run termux ini nya hapus
+{
+	"clientID": "rMsPMe/C7mQTlWJk0vzOVA==",
+	"serverToken": "1@LFto2N/RAb793OpKgG4i9jBvDNm0Huf69Jnf15INTJ3WG8lRN2pQTSvsljyYHjHO+2OY9wmf3wGJGQ==",
+	"clientToken": "xEnP0K28WEggm2qLcRMLCCuCnCEuSWcX9HdOmSQowoQ=",
+	"encKey": "Fo0OFSf9Eyig2vLiVPA0Zaawwss4Mq9IaDgmgAz0Row=",
+	"macKey": "mRaKDWdzVRDy0Y+RxOV4jnHYO6w8KcBRsgMvUfkiq68="
+}
